@@ -1,0 +1,39 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: arial;
+}
+
+.google {
+	width: 590px;
+	margin: 160px auto 0px;
+
+}
+
+.google img {
+	display: block;
+	margin: auto;
+}
+
+.google input {
+	width: 100%;
+	border: 1px solid #ccc;
+	padding: 12px 20px;
+	box-sizing: border-box;
+	border-radius: 50px;
+	margin: 20px 0px;
+}
+
+.google .button-area {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.google .button-area  button {
+	display: inline-block;
+	padding: 10px;
+}
+
+.google p {
+	text-align: center;
+}
